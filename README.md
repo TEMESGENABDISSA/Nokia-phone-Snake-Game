@@ -1,4 +1,4 @@
-#  Building-Nokia-phone-s-snake-game-
+#  Building-Nokia-phone-snake-game-
 # DONE BY: Temesgen Abdissa
 # hands on simple JavaScript Nokia-snake-Game.  I had unforgettable memory within Nokia-snake game when I was a child. 
 # https://temesgen-nokia-snake-game.netlify.app/
